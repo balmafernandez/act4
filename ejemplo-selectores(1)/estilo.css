@@ -1,0 +1,30 @@
+header{
+    background-color: lightgreen;
+}
+
+main{
+    background-color: lightblue;
+}
+header h2{
+    color :blue;
+
+}
+
+main h2{
+    color: violet;
+}
+#rojo{
+    color: rebeccapurple;
+}
+.par{
+    background-color: darkgrey;
+}
+
+
+
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid;
+}
